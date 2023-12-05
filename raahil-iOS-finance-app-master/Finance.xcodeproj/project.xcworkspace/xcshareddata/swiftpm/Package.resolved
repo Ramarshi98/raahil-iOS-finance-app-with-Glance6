@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "glance-default-ui-ios-releases",
+      "kind" : "remoteSourceControl",
+      "location" : "https://gitlab.com/glance-sdk-public/glance-default-ui-ios-releases",
+      "state" : {
+        "revision" : "50cef3f8f83b3d6d11bb4b08f5740ccba9777f80",
+        "version" : "6.5.1"
+      }
+    },
+    {
+      "identity" : "glance-sdk-ios-releases",
+      "kind" : "remoteSourceControl",
+      "location" : "https://gitlab.com/glance-sdk-public/glance-sdk-ios-releases.git",
+      "state" : {
+        "revision" : "021f6a2f74b18f12ea5e91a32c3ed49b4cf6db06",
+        "version" : "6.5.1"
+      }
+    }
+  ],
+  "version" : 2
+}
